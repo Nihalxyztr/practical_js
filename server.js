@@ -2,12 +2,6 @@ const http = require('http');
 const fs = require('fs');
 const os = require('os');
 const path= require('path');
-// get/update user - Append a new user with correct time stamp 
-// get/savelog= read out and return full contnent of visitors.log 
-//post/backup - copy content of visitors.log to a new file backlog.log
-// get/clearlog- clear content of vsiotor log 
-//get/serverinfo return system info in json format 
-
 const PORT= 3000;
 const log = path.join(__dirname,'visitors.log');
 
