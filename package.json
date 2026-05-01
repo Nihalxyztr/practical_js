@@ -1,0 +1,26 @@
+{
+  "name": "practical_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nihalxyztr/practical_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nihalxyztr/practical_js/issues"
+  },
+  "homepage": "https://github.com/Nihalxyztr/practical_js#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "^7.2.0",
+    "os": "^0.1.2"
+  }
+}
